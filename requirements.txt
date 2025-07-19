@@ -1,0 +1,21 @@
+# Virtual Environment
+.venv/
+env/
+venv/
+.venv/
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# PyInstaller build artifacts (should NOT be committed)
+build/
+*.spec
+
+# PyInstaller output (EXECUTABLES) - Generally should NOT be committed
+dist/
+
+# Other common ignorable files
+.vscode/
+.DS_Store
+Thumbs.db
